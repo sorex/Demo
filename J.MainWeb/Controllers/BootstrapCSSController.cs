@@ -16,5 +16,9 @@ namespace J.MainWeb.Controllers
             return View();
         }
 
+		public ActionResult Grid()
+		{
+			return View();
+		}
     }
 }

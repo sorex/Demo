@@ -79,9 +79,7 @@
 	<script type="text/javascript">
 		$(function ()
 		{
-			var nav_active = $("#navbar-main a[href='" + LocationHref + "']");
-			nav_active.attr("href","#");
-			nav_active.parent().addClass("active");
+			$("#navbar-main a[href='" + LocationHref + "']").attr("href", "#").parent().addClass("active");
 		});
 	</script>
 
