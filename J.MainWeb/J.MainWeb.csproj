@@ -206,6 +206,7 @@
     <Content Include="Views\BootstrapCSS\Index.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\BootstrapCSS\Grid.cshtml" />
+    <Content Include="Views\BootstrapCSS\Basic.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
